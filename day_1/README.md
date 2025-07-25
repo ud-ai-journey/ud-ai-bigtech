@@ -4,7 +4,8 @@
 
 Today was **INCREDIBLE**! Attended the AWS Agentic AI & SageMaker Roadshow and it completely changed my perspective on what I want to achieve.
 
-![AWS Event](images/image.png)
+<img src="images/image.png" width="500" alt="AWS Event">
+
 *The AWS Agentic AI & SageMaker Roadshow - where it all began!*
 
 ### What Happened Today:
@@ -16,7 +17,8 @@ Today was **INCREDIBLE**! Attended the AWS Agentic AI & SageMaker Roadshow and i
 - Attended breakout sessions on open-source OSS models
 - Got practical tips on cost-optimized fine-tuning
 
-![Handwritten Notes](images/20250725_232855~2.jpg)
+<img src="images/20250725_232855~2.jpg" width="400" alt="Handwritten Notes">
+
 *My handwritten notes during the session - capturing Apache Iceberg architecture, SageMaker data processing, and AWS analytics solutions. Old school note-taking for deep retention! 📝*
 
 **📝 Key Technical Concepts Captured in My Notes:**
@@ -29,7 +31,8 @@ Today was **INCREDIBLE**! Attended the AWS Agentic AI & SageMaker Roadshow and i
 - **Performance Gains**: 10x throughput, 8x faster query performance with managed Iceberg tables
 - **Storage Strategy**: Immutable storage patterns, no CRUD operations approach
 
-![Additional Technical Notes](images/20250725_231934~2.jpg)
+<img src="images/20250725_231934~2.jpg" width="400" alt="Additional Technical Notes">
+
 *Page 2 - Strategic Insights & Next-Gen Vision:*
 - **Keynote Theme**: "The Power of Conviction: The Future is Now" 
 - **Innovation Philosophy**: "Innovation is a team sport" - Seamless teamwork + Tag teaming drives innovation
@@ -44,7 +47,8 @@ Today was **INCREDIBLE**! Attended the AWS Agentic AI & SageMaker Roadshow and i
 - **Result**: Audience Q&A was 🔥 and reinforced how fast GenAI is moving from hype to reality
 - **Feeling**: Proud and more confident in my ML knowledge
 
-![Event Moments](images/1753451658144.jpg)
+<img src="images/1753451658144.jpg" width="350" alt="Event Moments">
+
 *Learning, networking, and sharing knowledge - the energy was incredible!*
 
 **💡 BREAKTHROUGH MOMENT - System Design Discovery:**
@@ -65,10 +69,12 @@ During the webinar, I was asked about Uber's monthly rides in Bangalore. I appro
 
 **🎉 The panel APPLAUDED my approach!** This moment made me realize I have a natural inclination for system design and data architecture. My methodology of breaking down complex problems into data-driven components resonated with the technical audience.
 
-![AWS Learning](images/1753451641179.jpg)
+<img src="images/1753451641179.jpg" width="350" alt="AWS Learning">
+
 *Deep diving into AWS SageMaker and Bedrock - hands-on learning at its best!*
 
-![Event Atmosphere](images/1753451642373.jpg)
+<img src="images/1753451642373.jpg" width="350" alt="Event Atmosphere">
+
 *The collaborative learning environment that sparked new ideas and connections*
 
 ## 🏠 Evening Research & Planning
@@ -87,7 +93,8 @@ Found this perfect course to start with: [YouTube Course](https://www.youtube.co
 ![Technical Notes](images/20250725_231934~2.jpg)
 *More detailed technical notes - diving deep into AWS services, architectures, and implementation details. This is how you turn events into actionable knowledge! 🧠*
 
-![Event Highlights](images/1753451655532.jpg)
+<img src="images/1753451655532.jpg" width="350" alt="Event Highlights">
+
 *The moment of realization - from AWS learnings to Big Tech preparation plan!*
 
 ## 📂 Today's Code:
