@@ -106,7 +106,7 @@ Both `while` and `for` loops run **O(n)** time complexity:
 
 ---
 
-**Date Completed**: Monday, July 28, 2025
+**Date Completed**: Saturday, July 26, 2025
 
 ## 🚀 About Me
 *Building CS fundamentals for Big Tech interviews while pursuing my passion for AI innovation!*
