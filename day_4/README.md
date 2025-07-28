@@ -5,7 +5,7 @@
 ### 🛠️ **Core Concept: Loops (While + For + Control Statements)**
 
 > **The Coffee Machine Analogy ☕**: Every time someone presses a button, the machine *repeats the same process*: Grind → Brew → Pour → Done. Loops are your **automation superheroes** that prevent Groundhog Day code!
- 
+
 ---
 
 ## 🧠 **Key Learning Analogies**
