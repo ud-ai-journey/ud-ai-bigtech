@@ -1,3 +1,4 @@
+//pattern-1
 def number_pyramid(rows):
     """Prints a pyramid of numbers increasing and decreasing."""
     for i in range(1, rows + 1):
@@ -8,6 +9,7 @@ def number_pyramid(rows):
             print(j, end="")
         print()
 
+//pattern-2
 def alphabetical_diamond(rows):
     """Prints a diamond pattern using alphabets."""
     n = (rows + 1) // 2
@@ -22,6 +24,7 @@ def alphabetical_diamond(rows):
             print(chr(64 + j), end=" ")
         print()
 
+//pattern-3
 def spiral_pattern(size):
     """Prints a spiral pattern in a square matrix."""
     if size % 2 == 0:
@@ -51,6 +54,7 @@ def spiral_pattern(size):
             print(f"{num:3}", end=" ")
         print()
 
+//pattern-4
 def pascal_triangle(rows):
     """Prints Pascal's Triangle."""
     triangle = [[1]]
@@ -66,6 +70,7 @@ def pascal_triangle(rows):
         row_str = " ".join(map(str, row))
         print(row_str.center(max_width))
 
+//pattern-5
 def fibonacci_square(size):
     """Prints a square pattern with Fibonacci numbers."""
     fib = [1, 1]
@@ -82,6 +87,8 @@ def fibonacci_square(size):
             print(f"{num:4}", end=" ")
         print()
 
+
+//pattern-6
 def star_hourglass(rows):
     """Prints an hourglass pattern using stars."""
     n = (rows + 1) // 2
@@ -92,6 +99,8 @@ def star_hourglass(rows):
         print(" " * (n - i), end="")
         print("*" * (2 * i - 1))
 
+
+//pattern-7
 def prime_number_triangle(rows):
     """Prints a triangle with prime numbers."""
     def is_prime(n):
@@ -111,6 +120,8 @@ def prime_number_triangle(rows):
                 index += 1
         print()
 
+
+//pattern-8
 def checkerboard_pattern(size):
     """Prints a checkerboard pattern using 0s and 1s."""
     for i in range(size):
